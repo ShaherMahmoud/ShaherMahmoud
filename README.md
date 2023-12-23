@@ -6,10 +6,7 @@
   
 
 - 🔭 I’m currently working on Priv8 Project  
-  
 
-- 🌱 I’m currently learning Reverse Engineering  
-  
 
 <br/>  
 
